@@ -42,11 +42,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Categoria.cs" />
-    <Compile Include="NoEncuentraCodigoException.cs" />
+    <Compile Include="Excepciones\NoEncuentraCodigoException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repuesto.cs" />
-    <Compile Include="StockNegativoException.cs" />
-    <Compile Include="TieneStockException.cs" />
+    <Compile Include="Excepciones\StockNegativoException.cs" />
+    <Compile Include="Excepciones\TieneStockException.cs" />
     <Compile Include="VentaRespuestos.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
