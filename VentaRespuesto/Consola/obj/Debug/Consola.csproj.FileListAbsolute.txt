@@ -1,0 +1,10 @@
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Consola\bin\Debug\Consola.exe.config
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Consola\bin\Debug\Consola.exe
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Consola\bin\Debug\Consola.pdb
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Consola\bin\Debug\Libreria.dll
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Consola\bin\Debug\Libreria.pdb
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Consola\obj\Debug\Consola.exe
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Consola\obj\Debug\Consola.pdb

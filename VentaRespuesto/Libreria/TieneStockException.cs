@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Libreria
+{
+    public class TieneStockException:Exception
+    {
+        public TieneStockException(string mensaje) :base(mensaje)
+        { }
+    }
+}

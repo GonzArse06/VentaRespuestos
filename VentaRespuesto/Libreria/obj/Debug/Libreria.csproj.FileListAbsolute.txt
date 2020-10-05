@@ -1,0 +1,6 @@
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Libreria\bin\Debug\Libreria.dll
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Libreria\bin\Debug\Libreria.pdb
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Libreria\obj\Debug\Libreria.dll
+C:\Users\gcarranza\Documents\GitHub\VentaRespuestos\VentaRespuesto\Libreria\obj\Debug\Libreria.pdb
